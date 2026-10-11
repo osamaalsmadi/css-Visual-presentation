@@ -1,4 +1,4 @@
-/* Configure .nav-container */
+
 .nav-container {
     display: flex;
     justify-content: space-between;
@@ -10,7 +10,7 @@
     margin-bottom: 30px;
 }
 
-/* Configure .card-container */
+
 .card-container {
     display: flex;
     flex-direction: row;
